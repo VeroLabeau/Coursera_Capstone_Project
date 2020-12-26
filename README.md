@@ -1,5 +1,7 @@
 # Coursera_Capstone - Clustering and Comparing the Neighborhoods of Paris and London
 
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+
 This is the repository for the capstone project of IBM Data Science Professional Certificate. In this project, the neighborhoods of Paris and London are clustered into groups of similar neighborhoods where the similarity is based on the categories (types) of venues in the neighborhoods.
 
 Foursquare API was used to retrieve data on the venues of the neighborhoods and their categories.
