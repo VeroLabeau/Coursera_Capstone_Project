@@ -1,7 +1,6 @@
 # Coursera_Capstone - Clustering and Comparing the Neighborhoods of Paris and London
 
-![alt text](https://github.com/VeroLabeau/Coursera_Capstone_Project/blob/main/Paris%20vs%20London.jpg?raw=true)
-![alt text](https://github.com/VeroLabeau/Coursera_Capstone_Project/blob/main/London%20vs%20Paris.jpg?raw=true)
+![alt text](https://github.com/VeroLabeau/Coursera_Capstone_Project/blob/main/Paris%20vs%20London%20merge.jpg?raw=true)
 
 This is the repository for the capstone project of IBM Data Science Professional Certificate. In this project, the neighborhoods of Paris and London are clustered into groups of similar neighborhoods where the similarity is based on the categories (types) of venues in the neighborhoods.
 
