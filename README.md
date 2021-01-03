@@ -13,3 +13,5 @@ This repository contains the following files:
 
    - `2020 Coursera Capstone Notebook` file is the Jupyter notebook that contains all the code used to conduct the project.
    
+   - `2020 Coursera Capstone Presentation` file is the presentation of the project.
+  
