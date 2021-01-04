@@ -9,9 +9,9 @@ Files in this Repository
 
 This repository contains the following files:
 
-   - `2020 Coursera Capstone Report` is the PDF report of the project and contains detailed explanation of the stages of the project.
+   - `2020 Coursera Capstone FINAL Report`: PDF report of the project and contains detailed explanation of the stages of the project.
 
-   - `2020 Coursera Capstone Notebook` file is the Jupyter notebook that contains all the code used to conduct the project.
+   - `2020 Coursera Capstone Notebook`: Jupyter notebook that contains all the code used to conduct the project.
    
-   - `2020 Coursera Capstone Presentation` file is the presentation of the project.
+   - `2020 Coursera Capstone Presentation`: Presentation of the project.
   
